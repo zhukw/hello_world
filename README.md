@@ -1,3 +1,4 @@
 # hello_world
 The first repository
 Hello world!This is zhu's first repository.
+This is Edition 2 for branch test.
